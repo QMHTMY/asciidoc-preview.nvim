@@ -14,16 +14,16 @@ Preview [asciidoc](http://asciidoc.org/) on your modern browser with synchronize
 - Multi-platforms (macos/linux/windows)
 - Synchronised scrolling
 - Fast asynchronous updates
+- Emoji
+- Task lists
+- Local images
+- Flexible configuration
 <!-- - [Katex](https://github.com/Khan/KaTeX) for typesetting of math 
 \- [Plantuml](https://github.com/plantuml/plantuml)
 \- [Mermaid](https://github.com/knsv/mermaid)
 \- [Chart.js](https://github.com/chartjs/Chart.js)
 \- [sequence-diagrams](https://github.com/bramp/js-sequence-diagrams)
 \- [Toc](https://github.com/nagaozen/asciidoc-it-toc-done-right) -->
-- Emoji
-- Task lists
-- Local images
-- Flexible configuration
 
 <!-- ![screenshot](https://user-images.githubusercontent.com/5492542/47603494-28e90000-da1f-11e8-9079-30646e551e7a.gif) -->
 
