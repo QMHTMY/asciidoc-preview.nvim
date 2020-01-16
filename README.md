@@ -1,15 +1,18 @@
 <h1 align="center"> Asciidoc Preview for (Neo)vim </h1>
 
 ### Description
-Preview [asciidoc](http://asciidoc.org/) on your modern browser with synchronized scrolling and flexible configuration.
+&emsp; [[中文版](./README_CN.md)] Preview <a href="http://asciidoc.org/">asciidoc</a> on your modern browser with synchronized scrolling and flexible configuration.
+
+### Compatible OS 
+- Mac OS
+- Windows
+- Unix-like OS
 
 ### Requirements 
-> This plugin only works on  
-> vim >= 8.1  
-> or    
-> [neovim](https://neovim.io) 
+* vim >= 8.1  
+* or [neovim](https://neovim.io) 
 
-### Main features
+### Planed main features
 
 - Multi-platforms (macos/linux/windows)
 - Synchronised scrolling
