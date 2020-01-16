@@ -4,9 +4,9 @@
 &emsp; [[English](./README.md)] 在浏览器上直接预览[asciidoc](http://asciidoc.org/)文档的Vim插件。
 
 ### 适用系统
+- Linux 
 - Mac OS
 - Windows
-- Unix-like OS
 
 ### Vim要求
 * vim >= 8.1  

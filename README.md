@@ -4,9 +4,9 @@
 &emsp; [[中文版](./README_CN.md)] Preview <a href="http://asciidoc.org/">asciidoc</a> on your modern browser with synchronized scrolling and flexible configuration.
 
 ### Compatible OS 
+- Linux 
 - Mac OS
 - Windows
-- Unix-like OS
 
 ### Requirements 
 * vim >= 8.1  
