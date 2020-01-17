@@ -21,8 +21,7 @@ TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvi
 [NOTE]
 ====
 在火狐浏览器上关闭时，页面并不自动关闭。这是因为火狐默认设置中 `dom.allow_scripts_to_close_windows`
-是 `false` ， + 
-请在url输入栏输入 `about:config` 并将该设置选项设置为 `true`。
+是 `false` ，请在url输入栏输入 `about:config` 并将该设置选项设置为 `true`。
 ====
 
 == 兼容系统
