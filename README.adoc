@@ -45,7 +45,7 @@ Please input `about:config` in url-input-box and change the configuration to `tr
 |*.asciidoc*  
 |===
 
-== Requirements 
+== Vim version 
 - [*]  Vim >= 8.0  
 - [*]  https://neovim.io[Neovim]
 
