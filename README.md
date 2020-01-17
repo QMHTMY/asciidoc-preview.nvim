@@ -1,12 +1,14 @@
 <h1 align="center"> Asciidoc Preview for (Neo)vim </h1>
 
-### Description
-&emsp; [[中文版](./README_CN.md)] Preview <a href="http://asciidoc.org/">asciidoc</a> on your modern browser with synchronized scrolling and flexible configuration.
+This project was inpired by [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim).
 
 ### Compatible OS 
 - Linux 
 - Mac OS
-- Windows
+
+### Description
+&emsp; [[中文版](./README_CN.md)] Preview <a href="http://asciidoc.org/">asciidoc</a> on your modern browser with synchronized scrolling and flexible configuration.
+
 
 ### Requirements 
 * vim >= 8.1  
@@ -282,3 +284,4 @@ Vim support is powered by [vim-node-rpc](https://github.com/neoclide/vim-node-rp
 
 ![image](https://user-images.githubusercontent.com/5492542/42771079-962216b0-8958-11e8-81c0-520363ce1059.png)
 -->
+

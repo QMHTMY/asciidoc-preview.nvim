@@ -1,12 +1,13 @@
 <h1 align="center"> Asciidoc文档预览插件(Neo)vim </h1>
 
+本项目有感于makdown预览项目[markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+
 ### 简述
 &emsp; [[English](./README.md)] 在浏览器上直接预览[asciidoc](http://asciidoc.org/)文档的Vim插件。
 
 ### 适用系统
 - Linux 
 - Mac OS
-- Windows
 
 ### Vim要求
 * vim >= 8.1  
