@@ -25,6 +25,7 @@ Please input `about:config` in url-input-box and change the configuration to `tr
 == Compatible OS 
 * Linux 
 * Mac OS
+* Windows
 
 == Description
 [{uri-readme-cn}[中文版]] Preview http://asciidoc.org/[asciidoc] on your modern browser with synchronized scrolling and flexible configuration. Your asciidoc file must end with suffixes like: 
