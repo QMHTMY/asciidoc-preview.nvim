@@ -1,13 +1,17 @@
 <h1 align="center"> Asciidoc Preview for (Neo)vim </h1>
 
-This project was inpired by [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim).
-
 ### Compatible OS 
 - Linux 
 - Mac OS
 
 ### Description
-&emsp; [[中文版](./README_CN.md)] Preview <a href="http://asciidoc.org/">asciidoc</a> on your modern browser with synchronized scrolling and flexible configuration.
+&emsp; [[中文版](./README_CN.md)] Preview <a href="http://asciidoc.org/">asciidoc</a> on your modern browser with synchronized scrolling and flexible configuration. This project was inpired by [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim). Your asciidoc file must end with suffixes like: 
+
+col 1  |col 2   |col 3 
+:----  |:----   |:----   
+**.ad**|**.asc**|**.asd**
+**.ascd**|**.adoc**|**.asciidoc**  
+
 
 
 ### Requirements 
@@ -285,3 +289,7 @@ Vim support is powered by [vim-node-rpc](https://github.com/neoclide/vim-node-rp
 ![image](https://user-images.githubusercontent.com/5492542/42771079-962216b0-8958-11e8-81c0-520363ce1059.png)
 -->
 
+### Reference
+- [asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js)
+- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+- [asciidoctor-browser-extension](https://github.com/asciidoctor/asciidoctor-browser-extension)

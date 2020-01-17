@@ -3,7 +3,12 @@
 本项目有感于makdown预览项目[markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
 
 ### 简述
-&emsp; [[English](./README.md)] 在浏览器上直接预览[asciidoc](http://asciidoc.org/)文档的Vim插件。
+[[English](./README.md)] 在浏览器上直接预览[asciidoc](http://asciidoc.org/)文档的Vim插件。asciidoc文档必须以下列后缀结尾：  
+
+col 1  |col 2   |col 3 
+:----  |:----   |:----   
+**.ad**|**.asc**|**.asd**
+**.ascd**|**.adoc**|**.asciidoc**  
 
 ### 适用系统
 - Linux 
@@ -283,3 +288,8 @@ Vim support is powered by [vim-node-rpc](https://github.com/neoclide/vim-node-rp
 
 ![image](https://user-images.githubusercontent.com/5492542/42771079-962216b0-8958-11e8-81c0-520363ce1059.png)
 -->
+
+### Reference
+- [asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js)
+- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+- [asciidoctor-browser-extension](https://github.com/asciidoctor/asciidoctor-browser-extension)
