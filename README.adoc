@@ -14,6 +14,8 @@ endif::[]
 :uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/LICENSE
 :uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/README_CN.adoc
 
+TIP: This project was inspired by https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim].
+
 [NOTE]
 ====
 On Firefox, pages viewed directly from Neovim or Vim may not render properly. This is because the Firefox default configuration `dom.allow_scripts_to_close_windows` is `false`. + 
