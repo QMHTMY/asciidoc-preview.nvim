@@ -1,0 +1,69 @@
+= Asciidoc文档预览插件(Neo)vim
+Shieber
+
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+:uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/LICENSE
+:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/README.adoc
+
+
+
+TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim]的启发。
+
+[NOTE]
+====
+在火狐浏览器上关闭时，页面并不自动关闭。这是因为火狐默认设置中 `dom.allow_scripts_to_close_windows`
+是 `false` ， + 
+请在url输入栏输入 `about:config` 并将该设置选项设置为 `true`。
+====
+
+== 兼容系统
+* Linux 
+* Mac OS
+* Windows
+
+== 描述
+[{uri-readme-cn}[English]] vim或neovim打开 http://asciidoc.org/[asciidoc]文件时直接在系统默认浏览器上预览，asciidoc文件名必须以下列后缀结尾。
+
+[cols="3", options="header"]
+.后缀
+|===
+|1
+|2
+|3
+
+|*.ad*
+|*.asc*
+|*.asd*
+
+|*.ascd*
+|*.adoc*
+|*.asciidoc*  
+|===
+
+== 可使用该项目的软件
+- [*]  Vim >= 8.0  
+- [*]  https://neovim.io[Neovim]
+
+== 计划中的功能
+. 配置简单
+. 多平台(Macos/Linux/Windows)
+. 实时渲染刷新
+. 可输入Emoji
+. 可添加本地图片
+
+== 参考资料
+* https://github.com/asciidoctor/asciidoctor.js[asciidoctor.js]
+* https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim]
+* https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor-browser-extension]
+
+== 版权声明
+Copyright (C) 2017-2020 Shieber，在 {uri-license}[APACHE LICENSE]下开源。

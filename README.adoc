@@ -1,0 +1,67 @@
+= Asciidoctor Preview for (Neo)vim
+Shieber
+
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+:uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/LICENSE
+:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/README_CN.adoc
+
+[NOTE]
+====
+On Firefox, pages viewed directly from Neovim or Vim may not render properly. This is because the Firefox default configuration `dom.allow_scripts_to_close_windows` is `false`. + 
+Please input `about:config` in url-input-box and change the configuration to `true`.
+====
+
+== Compatible OS 
+* Linux 
+* Mac OS
+
+== Description
+[{uri-readme-cn}[中文版]] Preview http://asciidoc.org/[asciidoc] on your modern browser with synchronized scrolling and flexible configuration. Your asciidoc file must end with suffixes like: 
+
+[cols="3", options="header"]
+.Suffixes
+|===
+|1
+|2
+|3
+
+|*.ad*
+|*.asc*
+|*.asd*
+
+|*.ascd*
+|*.adoc*
+|*.asciidoc*  
+|===
+
+== Requirements 
+- [*]  Vim >= 8.0  
+- [*]  https://neovim.io[Neovim]
+
+== Planed main features
+. Multi-platforms (Macos/Linux/Windows)
+. Synchronised scrolling
+. Fast asynchronous updates
+. Emoji
+. Task lists
+. Local images
+. Flexible configuration
+
+== Reference
+* https://github.com/asciidoctor/asciidoctor.js[asciidoctor.js]
+* https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim]
+* https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor-browser-extension]
+
+== Copyright
+Copyright (C) 2017-2020 Shieber. +
+See the {uri-license}[LICENSE] file for free use of this script granted under the terms of the Apache License.
+
