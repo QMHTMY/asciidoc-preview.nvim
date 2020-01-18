@@ -29,7 +29,7 @@ Please input `about:config` in url-input-box and change the configuration to `tr
 * Windows
 
 == Description
-[{uri-readme-cn}[中文版]] Preview http://asciidoc.org/[asciidoc] on your modern browser with synchronized scrolling and flexible configuration. Your asciidoc file must end with suffixes like: 
+[link:README_CN.adoc[中文版]] Preview http://asciidoc.org/[asciidoc] on your modern browser with synchronized scrolling and flexible configuration. Your asciidoc file must end with suffixes like: 
 
 [cols="3", options="header"]
 .Suffixes
