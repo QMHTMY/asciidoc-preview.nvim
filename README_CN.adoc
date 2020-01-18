@@ -11,8 +11,8 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-:uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/LICENSE
-:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/README.adoc
+:uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/LICENSE
+:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README.adoc
 
 
 
