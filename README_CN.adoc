@@ -12,7 +12,7 @@ ifdef::env-github[]
 endif::[]
 
 :uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/LICENSE
-:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README.adoc
+:uri-readme: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README.adoc
 
 
 
@@ -30,7 +30,7 @@ TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvi
 * Windows
 
 == 描述
-[{uri-readme-cn}[English]] vim或neovim打开 http://asciidoc.org/[asciidoc]文件时直接在系统默认浏览器上预览，asciidoc文件名必须以下列后缀结尾。
+[link:README.adoc[English]] vim或neovim打开 http://asciidoc.org/[asciidoc]文件时直接在系统默认浏览器上预览，asciidoc文件名必须以下列后缀结尾。
 
 [cols="3", options="header"]
 .后缀
@@ -66,4 +66,4 @@ TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvi
 * https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor-browser-extension]
 
 == 版权声明
-Copyright (C) 2017-2020 Shieber，在 {uri-license}[APACHE LICENSE]下开源。
+Copyright (C) 2017-2020 Shieber，在 link:LICENSE[APACHE LICENSE]下开源。

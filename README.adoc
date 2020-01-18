@@ -12,8 +12,7 @@ ifdef::env-github[]
 endif::[]
 
 :uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/LICENSE
-:uri-readme-cn: ./README_CN.adoc
-// :uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README_CN.adoc
+:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README_CN.adoc
 
 TIP: This project was inspired by https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim].
 
@@ -68,5 +67,5 @@ Please input `about:config` in url-input-box and change the configuration to `tr
 
 == Copyright
 Copyright (C) 2017-2020 Shieber. +
-See the {uri-license}[LICENSE] file for free use of this script granted under the terms of the Apache License.
+See the link:LICENSE[LICENSE] file for free use of this script granted under the terms of the Apache License.
 
