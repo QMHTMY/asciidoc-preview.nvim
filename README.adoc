@@ -12,7 +12,8 @@ ifdef::env-github[]
 endif::[]
 
 :uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/LICENSE
-:uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README_CN.adoc
+:uri-readme-cn: ./README_CN.adoc
+// :uri-readme-cn: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README_CN.adoc
 
 TIP: This project was inspired by https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim].
 
