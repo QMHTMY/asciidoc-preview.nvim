@@ -18,8 +18,8 @@ TIP: This project was inspired by https://github.com/iamcco/markdown-preview.nvi
 
 [NOTE]
 ====
-On Firefox, pages viewed directly from Neovim or Vim may not render properly. This is because the Firefox default configuration `dom.allow_scripts_to_close_windows` is `false`. + 
-Please input `about:config` in url-input-box and change the configuration to `true`.
+On Firefox, preview window may not close when leave the markdown file in Vim. This is because the Firefox default configuration of `dom.allow_scripts_to_close_windows` is `false`. + 
+Please input `about:config` in address bar and set the value to `true`.
 ====
 
 == Compatible OS 
@@ -49,7 +49,7 @@ Please input `about:config` in url-input-box and change the configuration to `tr
 == Vim version 
 
 - [*]  Vim >= 8.0    
-- [*]  https://neovim.io[Neovim]
+- [ ]  https://neovim.io[Neovim]
 
 == Planed main features
 . Multi-platforms (Macos/Linux/Windows)

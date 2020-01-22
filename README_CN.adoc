@@ -51,7 +51,7 @@ TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvi
 == 可使用该项目的软件
 
 - [*]  Vim >= 8.0  
-- [*]  https://neovim.io[Neovim]
+- [ ]  https://neovim.io[Neovim]
 
 == 计划中的功能
 . 配置简单
