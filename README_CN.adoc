@@ -1,5 +1,6 @@
 = Asciidoc文档预览插件(Neo)vim
-Shieber
+:date: "2020-1-24 16:23:57" (农历2019年除夕)
+:author: "Shieber"
 
 ifndef::env-github[:icons: font]
 ifdef::env-github[]
@@ -14,14 +15,12 @@ endif::[]
 :uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/LICENSE
 :uri-readme: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README.adoc
 
-
-
 TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim]的启发。
 
 [NOTE]
 ====
-在火狐浏览器上关闭时，页面并不自动关闭。这是因为火狐默认设置中 `dom.allow_scripts_to_close_windows`
-是 `false` ，请在url输入栏输入 `about:config` 并将该设置选项设置为 `true`。
+在火狐浏览器上显示时，vim关闭页面并不自动关闭。这是因为火狐默认设置中 `dom.allow_scripts_to_close_windows`
+是 `false` ，请在url输入栏输入 `about:config` 并设置为 `true`。
 ====
 
 == 兼容系统
@@ -55,10 +54,10 @@ TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvi
 
 == 计划中的功能
 . 配置简单
-. 多平台(Macos/Linux/Windows)
-. 实时渲染刷新
 . 可输入Emoji
+. 实时渲染刷新
 . 可添加本地图片
+. 多平台(Macos/Linux/Windows)
 
 == 参考资料
 * https://github.com/asciidoctor/asciidoctor.js[asciidoctor.js]
@@ -66,4 +65,4 @@ TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvi
 * https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor-browser-extension]
 
 == 版权声明
-Copyright (C) 2017-2020 Shieber，在 link:LICENSE[APACHE LICENSE]下开源。
+Copyright (C) 2019-2020 Shieber，在 link:LICENSE[APACHE LICENSE]下开源。

@@ -66,6 +66,6 @@ Please input `about:config` in address bar and set the value to `true`.
 * https://github.com/asciidoctor/asciidoctor-browser-extension[asciidoctor-browser-extension]
 
 == Copyright
-Copyright (C) 2017-2020 Shieber. +
+Copyright (C) 2019-2020 Shieber. +
 See the link:LICENSE[LICENSE] file for free use of this script granted under the terms of the Apache License.
 
