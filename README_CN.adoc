@@ -15,7 +15,8 @@ endif::[]
 :uri-license: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/LICENSE
 :uri-readme: https://github.com/QMHTMY/asciidoc-preview.nvim/blob/master/README.adoc
 
-TIP: 本项目受到makdown项目 https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim]的启发。
+TIP: 本项目受到makdown项目
+https://github.com/iamcco/markdown-preview.nvim[markdown-preview.nvim]的启发。目前功能还未实现，正在开发中...
 
 [NOTE]
 ====
